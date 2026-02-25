@@ -1,0 +1,13 @@
+{
+  "name": "salai",
+  "displayName": "Salai – Israeli Grocery Price Comparison",
+  "version": "1.0.0",
+  "description": "Search products, compare prices across Israeli retailers (Shufersal, Rami Levy, Victory, Yohananof), manage a smart cart, and get grocery recommendations — all from Cursor.",
+  "author": {
+    "name": "Salai",
+    "email": "support@salai.co.il"
+  },
+  "license": "MIT",
+  "keywords": ["grocery", "israel", "price-comparison", "shopping", "mcp", "cart", "shufersal", "hebrew"],
+  "logo": "assets/logo.svg"
+}

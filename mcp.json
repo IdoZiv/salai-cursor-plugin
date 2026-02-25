@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "salai": {
+      "url": "https://mcp.salai.co.il/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:SALAI_API_KEY}"
+      }
+    }
+  }
+}
